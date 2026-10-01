@@ -26,7 +26,7 @@
 
 <br>
 
-<p><strong>9B vision model that extracts structured JSON from PDFs and images with 90.2% field accuracy and schema-constrained decoding.</strong></p>
+<p>9B vision model that extracts structured JSON from PDFs and images with 90.2% field accuracy and schema-constrained decoding.</p>
 
 </div>
 
