@@ -6,7 +6,7 @@
     width="350"
   >
 </a>
-<h1 style="margin-top: -30px; margin-bottom: 5px; border: none;">lift</h1>
+<h1 style="margin: -20px 0 5px 0; border: none; padding: 0;">lift</h1>
 
 <a href="https://opensource.org/licenses/Apache-2.0">
   <img src="https://img.shields.io/badge/Code%20License-Apache_2.0-green.svg" alt="Code License">
@@ -26,7 +26,7 @@
 
 <br>
 
-<p><strong>9B vision model extracting structured JSON from PDFs & images with 90.2% field accuracy.</strong></p>
+<p>9B vision model extracting structured JSON from PDFs & images with 90.2% field accuracy.</p>
 
 </div>
 
