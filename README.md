@@ -3,7 +3,7 @@
   <img
     alt="Datalab logo"
     src="https://github.com/namanvirk18/lift/raw/master/assets/datalab-full.png"
-    width="150"
+    width="350"
   >
 </a>
 <h3 style="margin-top: -15px; margin-bottom: 5px;">lift</h3>
