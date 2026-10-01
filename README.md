@@ -2,7 +2,7 @@
 <a href="https://www.datalab.to">
   <img
     alt="Datalab logo"
-    src="https://github.com/namanvirk18/rowboat/raw/main/assets/rb-logo.png"
+    src="https://github.com/namanvirk18/lift/raw/master/assets/datalab-logo.png"
     width="150"
   >
 </a>
