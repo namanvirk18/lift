@@ -6,7 +6,7 @@
     width="350"
   >
 </a>
-<h2 style="margin-top: -15px; margin-bottom: 5px;">lift</h2>
+<h1 style="margin-top: -15px; margin-bottom: 5px;">lift</h1>
 
 <a href="https://opensource.org/licenses/Apache-2.0">
   <img src="https://img.shields.io/badge/Code%20License-Apache_2.0-green.svg" alt="Code License">
